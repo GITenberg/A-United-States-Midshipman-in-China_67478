@@ -1,0 +1,41 @@
+_repo: A-United-States-Midshipman-in-China_67478
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boyer, Ralph L. (Ralph Ludwig)
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '34848'
+    url: http://www.gutenberg.org/2009/agents/34848
+creator:
+  author:
+    agent_name: Stirling, Yates
+    birthdate: 1872
+    deathdate: 1948
+    gutenberg_agent_id: '54159'
+    url: http://www.gutenberg.org/2009/agents/54159
+    wikipedia: https://en.wikipedia.org/wiki/Yates_Stirling_Jr.
+description: ''
+gutenberg_issued: '2022-02-23'
+identifiers:
+  gutenberg: '67478'
+  lccn: 09012881
+language: en
+pgterms:marc904: https://archive.org/details/cu31924023257656
+pgterms:marc905: 20211212140235stirling
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by Cornell University Digital Collections)
+publication_note: United States :Penn Publishing Company,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'China -- Juvenile fiction'
+- GITenberg
+title: A United States Midshipman in China
+url: http://www.gutenberg.org/ebooks/67478
